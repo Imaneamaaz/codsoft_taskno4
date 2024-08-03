@@ -21,13 +21,15 @@ This project implements a movie recommendation system using TF-IDF vectorization
 
 ## Usage
 
-- **Clone the repository:**:
+- **Clone the repository**:
 git clone https://github.com/Imaneamaaz/codsoft_taskno4.git
 cd codsoft_taskno4.git
 - **Example**:
 To get top 5 movie recommendations for 'The Matrix':
+```bash
 print(get_recommendations('The Matrix'))
 To evaluate the recommendation system with example test data:
+```bash
 evaluate_recommendations(test_data)
 You can install the required packages using:
 ```bash
