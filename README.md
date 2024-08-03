@@ -25,11 +25,6 @@ This project implements a movie recommendation system using TF-IDF vectorization
 git clone https://github.com/Imaneamaaz/codsoft_taskno4.git
 cd codsoft_taskno4.git
 
-## Directory Structure
-
-codsoft_taskno4/
-├── README.md
-└── recommend.py
 
 
 You can install the required packages using:
