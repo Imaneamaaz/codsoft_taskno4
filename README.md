@@ -24,8 +24,9 @@ This project implements a movie recommendation system using TF-IDF vectorization
 - **Clone the repository**:
 git clone https://github.com/Imaneamaaz/codsoft_taskno4.git
 cd codsoft_taskno4.git
-- **Example**:
-To get top 5 movie recommendations for 'The Matrix':
+
+
+You can install the required packages using:
 ```bash
-print(get_recommendations('The Matrix'))
+pip install pandas scikit-learn scikit-surprise numpy nltk
 
