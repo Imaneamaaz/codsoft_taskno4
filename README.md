@@ -28,9 +28,4 @@ cd codsoft_taskno4.git
 To get top 5 movie recommendations for 'The Matrix':
 ```bash
 print(get_recommendations('The Matrix'))
-To evaluate the recommendation system with example test data:
-```bash
-evaluate_recommendations(test_data)
-You can install the required packages using:
-```bash
-pip install pandas scikit-learn scikit-surprise numpy nltk
+
